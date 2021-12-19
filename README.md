@@ -1,1 +1,0 @@
-# not_ortalamasi_hesaplama
